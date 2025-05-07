@@ -1,5 +1,4 @@
-[bot]
-releases.enabled = true
+bot.releases.enabled = true
 
 [package]
 versioned_files = [
