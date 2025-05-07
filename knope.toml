@@ -1,14 +1,11 @@
 bot.releases.enabled = true
-
-[package]
-versioned_files = [
+package.versioned_files = [
   "apps/docs/package.json",
   "apps/web/package.json",
   "packages/eslint-config/package.json",
   "packages/typescript-config/package.json",
   "packages/ui/package.json",
 ]
-changelog = "CHANGELOG.md"
 
 [github]
 owner = "sho918"
